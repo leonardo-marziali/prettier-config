@@ -1,0 +1,12 @@
+{
+  "name": "@leonardo-marziali/prettier-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Leonardo Marziali <marzialileonardo862@gmail.com>",
+  "packageManager": "yarn@3.5.1",
+  "peerDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "*",
+    "prettier": "*",
+    "prettier-plugin-organize-imports": "*"
+  }
+}
