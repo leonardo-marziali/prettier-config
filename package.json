@@ -1,13 +1,14 @@
 {
   "name": "@leonardo-marziali/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "author": "Leonardo Marziali <marzialileonardo862@gmail.com>",
   "packageManager": "yarn@3.5.1",
   "main": "./.prettierrc.js",
-  "peerDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "*",
-    "prettier": "*",
-    "prettier-plugin-organize-imports": "*"
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "prettier": "^2.8.8",
+    "prettier-plugin-organize-imports": "^3.2.2",
+    "typescript": "^5.0.4"
   }
 }
