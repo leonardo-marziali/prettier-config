@@ -213,6 +213,11 @@ __metadata:
     prettier: ^2.8.8
     prettier-plugin-organize-imports: ^3.2.2
     typescript: ^5.0.4
+  peerDependencies:
+    "@trivago/prettier-plugin-sort-imports": "*"
+    prettier: "*"
+    prettier-plugin-organize-imports: "*"
+    typescript: "*"
   languageName: unknown
   linkType: soft
 
